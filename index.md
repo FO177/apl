@@ -3,14 +3,34 @@ layout: default
 ---
 
 # Aplikasi Utama
+
+## Aplikasi GPP
+placeholder
+
+## Aplikasi SAS
+placeholder
+
+## Aplikasi SIMAK BMN
+placeholder
+
+## Aplikasi Persediaan
+placeholder
+
+## Aplikasi PIN PPSPM
+placeholder
+
 ---
 
-# Aplikasi GPP
+# Aplikasi Pendukung
 
-# Aplikasi SAS
+## A
+placeholder
 
-# Aplikasi SIMAK BMN
+## B
+placeholder
 
-# Aplikasi Persediaan
+## C
+placeholder
 
-# Aplikasi PIN PPSPM
+## D
+placeholder
